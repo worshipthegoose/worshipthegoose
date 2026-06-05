@@ -13,6 +13,6 @@ The Goose has one alt, @thegoosesite. This account was made to prevent typosquat
 ### Links
 <ul>
   <li><a href="https://worshipthegoose.github.io/youtube">Offical Youtube Account</a></li>
-  <li><a href="https://worshipthegoose.github.io/youtube">Offical Website, hosted by Github</a></li>
+  <li><a href="https://worshipthegoose.github.io/?from=ghbio">Offical Website, hosted by Github</a></li>
 </ul>
 
