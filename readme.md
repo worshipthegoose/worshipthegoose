@@ -10,5 +10,9 @@ The Goose website is available 24/7 at <a href="https://worshipthegoose.github.i
 ## Alternate Accounts / Links
 ### Alternate Accounts
 The Goose has one alt, @thegoosesite. This account was made to prevent typosquatting.
-#
+### Links
+<ul>
+  <li><a href="https://worshipthegoose.github.io/youtube">Offical Youtube Account</a></li>
+  <li><a href="https://worshipthegoose.github.io/youtube">Offical Website, hosted by Github</a></li>
+</ul>
 
