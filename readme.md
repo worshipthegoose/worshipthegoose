@@ -1,3 +1,6 @@
+<center>
+![Goose Logo](https://worshipthegoose.github.io/assets/images/goose.png)
+</center>
 # The Goose's Official Github Account
 <small>(account run by @rf0958)</small>
 ## Welcome
