@@ -7,13 +7,14 @@ You must worship, pray, and repent your goosins at Saint Duck's Church of The Go
 ## Languages 
 The Goose codes in Javascript, HTML, CSS, Python and Java. Around 10% of Javascript code is converted from TypeScript.
 ## Website
-The Goose website is available 24/7 at <a href="https://worshipthegoose.github.io">worshipthegoose.github.io</a>. The password is... 
+The Goose website is available 24/7 at <a href="https://thegoosesite.github.io">thegoosesite.github.io</a>. The password is... !!!
 ## Alternate Accounts / Links
 ### Alternate Accounts
-The Goose has one alt, <a href="https://github.com/thegoosesite">thegoosesite</a>. This account was made to prevent typosquatting.
+The Goose has one alt, <a href="https://github.com/thegoosesite">thegoosesite</a>. This account is used to host the goose site. We recently changed the domain
+of our site for ease of access.
 ### Links
 <ul>
-  <li><a href="https://worshipthegoose.github.io/youtube">Offical Youtube Account</a></li>
-  <li><a href="https://worshipthegoose.github.io/?from=ghbio">Offical Website, hosted by Github</a></li>
+  <li><a href="https://thegoosesite.github.io/youtube">Offical Youtube Account</a></li>
+  <li><a href="https://thegoosesite.github.io/?from=goosebiography.github">Offical Website, hosted by Github</a></li>
 </ul>
 
